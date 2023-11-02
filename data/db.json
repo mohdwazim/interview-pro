@@ -1,0 +1,61 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "background": "images/bg1.jpg",
+      "bgeffect": "light-effect",
+      "logo": "black-logo",
+      "maincls": "page-text",
+      "discoverbtn": false,
+      "nextPage": true,
+      "title": "Lorem ipsum dolor",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ipsa libero iure omnis, saepe, recusandae itaque magni reprehenderit hic molestiae illo commodi dicta placeat officia architecto temporibus minima voluptatum animi!",
+      "blog": false
+    },
+    {
+      "id": 2,
+      "background": "images/bg2.jpg",
+      "bgeffect": "dark-effect",
+      "logo": "white-logo",
+      "maincls": "withblog",
+      "discoverbtn": true,
+      "nextPage": false,
+      "title": "Lorem ipsum dolor",
+      "body": "",
+      "blog": true,
+      "blogname": "blogs"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    },
+    {
+      "id": 6,
+      "title": "Lorem ipsum",
+      "body": "It’s easy to overlook the word “therefore,” in verse 5 (above), but let’s not do that. It is there for a reason! And its purpose is to link what came before with what is being said."
+    }
+  ]
+}
